@@ -1,2 +1,2 @@
 # ObservableModel
-Base class with INotifyPropertyChanged implementation for models
+A Base class with INotifyPropertyChanged implementation for models
